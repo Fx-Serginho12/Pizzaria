@@ -51,7 +51,7 @@ body{
     box-shadow: 0 3px 10px green;
 }
 
-.boto-vazado{
+.botao-vazado{
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     text-decoration: none;
@@ -99,7 +99,7 @@ hr{
     box-shadow: 0 3px 10px green;
     border-radius: 15px 15px 0px 0px;
 }
-@media (max-whidth:500px) {
+@media (max-width:500px) {
     .sabores{
         flex-direction: row;
         margin: 10px;
